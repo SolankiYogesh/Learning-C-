@@ -48,6 +48,9 @@
     "vector": "cpp",
     "algorithm": "cpp",
     "fstream": "cpp",
-    "iomanip": "cpp"
+    "iomanip": "cpp",
+    "iterator": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp"
   }
 }
